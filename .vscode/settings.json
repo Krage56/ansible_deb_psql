@@ -1,0 +1,4 @@
+{
+    "python-envs.pythonProjects": [],
+    "ansible.python.interpreterPath": "/mnt/ansible_quickstart/ansible_deb_psql/.venv/bin/python"
+}
